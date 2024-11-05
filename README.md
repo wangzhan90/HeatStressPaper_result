@@ -9,7 +9,7 @@ This folder contains a mapping file that connects farming resource regions with 
 ## \out
 This folder will store figures and tables generated.
 ## \shp
-The folder contains the shapefile of farming resource regions in the US.
+The folder contains the shapefile of farming resource regions in the US. This shapefile is created by mapping county level shapefile to farming resource regions with the "county-to-ERS Resource Region aggregation in Excel" file from USDA-ERS (https://www.ers.usda.gov/data-products/arms-farm-financial-and-crop-production-practices/documentation.aspx, accessed on 2024/4/28).
 ## \temp
 This folder will store temporary files generated during the visualization.
 ## visualizeResult.R
